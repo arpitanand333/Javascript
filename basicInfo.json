@@ -1,0 +1,34 @@
+[
+    {
+        "name": "arpit",
+        "degisnation": "Blockchain dev",
+        "home": "shivranjani",
+        "skill": [
+            "c",
+            "js",
+            "solidity"
+        ],
+        "age": 26
+    },
+    {
+        "name": "raju",
+        "degisnation": "Blockchain dev",
+        "home": "shivranjani",
+        "skill": [
+            "c",
+            "js",
+            "solidity"
+        ],
+        "age": 26
+    },
+    {
+        "name": "raju",
+        "degisnation": "Blockchain dev",
+        "home": "shivranjani"
+    },
+    {
+        "name": "raju",
+        "degisnation": "Blockchain dev",
+        "home": "shivranjani"
+    }
+]
